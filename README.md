@@ -22,3 +22,6 @@ raw data (csv offered by Udacity)
 It's important to give proper credit. Add links to any repo that inspired you or blogposts you consulted.
 Yash Motwani
 https://github.com/YashMotwani/pdsnd_github
+
+Udacity free course
+https://www.udacity.com/blog/2015/06/a-beginners-git-github-tutorial.html
