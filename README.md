@@ -6,10 +6,13 @@ Include the date you created this project and README file.
 
 ### Project Title
 Replace the Project Title
-Data Analysis of US Bike Share 
+Data Analysis of US Bike Share
 
 ### Description
 Describe what your project is about and what it does
+- interactive questionaire created with the help of python based on raw data of bikesharing within three American cities January to June 2017
+- the user can filter via city and different time frames like month or day    
+- based on the user´s input specific statistical data is computed and displayed  
 
 ### Files used
 Include the files used
