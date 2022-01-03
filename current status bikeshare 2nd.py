@@ -1,3 +1,5 @@
+# udacity-git-project: adding a comment to use it for a further commit
+
 import time
 import pandas as pd
 import numpy as np
@@ -201,7 +203,7 @@ def display_stats(df):
             current_line += 5
         if display.lower() != 'yes':
             break
-        
+
 
 def main():
     while True:
