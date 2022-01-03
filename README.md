@@ -15,7 +15,10 @@ Describe what your project is about and what it does
 - based on the user´s input specific statistical data is computed and displayed  
 
 ### Files used
-Include the files used
+current status bikeshare 2nd.py
+raw data (csv offered by Udacity)
 
 ### Credits
 It's important to give proper credit. Add links to any repo that inspired you or blogposts you consulted.
+Yash Motwani
+https://github.com/YashMotwani/pdsnd_github
