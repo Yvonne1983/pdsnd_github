@@ -9,8 +9,8 @@ def print_pause(text_to_print, delay=0):
 
 
 def intro():
-    print_pause("In this program you explore data related to bike share systems for three major cities in the United States — Chicago, New York City, and Washington.", 5)
-    print_pause("According to your input the program will provide information by computing descriptive statistics.", 5)
+    print_pause("In this program you explore data related to bike share systems for three major cities in the United States — Chicago, New York City, and Washington.", 3)
+    print_pause("According to your input the program will provide information by computing descriptive statistics.", 3)
 # function to add introduction
 
 CITY_DATA = { 'chicago': 'chicago.csv',
