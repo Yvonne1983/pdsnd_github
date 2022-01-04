@@ -7,6 +7,12 @@ def print_pause(text_to_print, delay=0):
     time.sleep(delay)
 # function to add some time delay
 
+
+def intro():
+    print_pause("In this program you explore data related to bike share systems for three major cities in the United States — Chicago, New York City, and Washington.", 5)
+    print_pause("According to your input the program will provide information by computing descriptive statistics.", 5)
+# function to add introduction
+
 CITY_DATA = { 'chicago': 'chicago.csv',
               'new york city': 'new_york_city.csv',
               'washington': 'washington.csv' }
@@ -201,9 +207,10 @@ def display_stats(df):
             current_line += 5
         if display.lower() != 'yes':
             break
-        
+
 
 def main():
+    intro()
     while True:
         city, month, day = get_filters()
         df = load_data(city, month, day)
